@@ -1,0 +1,10 @@
+El uso responsable de la información en internet tiene una relación importante
+con la participación ciudadana y la organización del trabajo técnico
+porque todo lo que compartimos puede influir en otras personas,
+por eso es importante verificar la información antes de publicarla
+y evitar compartir noticias falsas o contenido engañoso.
+Además la participación ciudadana permite expresar ideas y opiniones
+de manera respetuosa dentro de los espacios digitales.
+Herramientas como Git ayudan a mantener el trabajo organizado
+permitiendo guardar cambios y trabajar de forma colaborativa.
+Todo esto ayuda a crear entornos digitales más seguros y responsables
