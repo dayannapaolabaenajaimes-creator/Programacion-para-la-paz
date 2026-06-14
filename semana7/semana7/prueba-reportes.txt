@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el servidor devuelve la lista de reportes registrados previamente mediante POST /reportes. Cada reporte incluye un identificador, un tipo y una descripción. Si no existen reportes registrados, la respuesta será un arreglo vacío. Cuando se agregan reportes, estos aparecen al realizar nuevamente la consulta GET /reportes.
