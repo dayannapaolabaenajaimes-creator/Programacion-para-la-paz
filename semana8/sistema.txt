@@ -1,0 +1,5 @@
+uname -a muestra información del sistema operativo y hardware.
+
+whoami muestra el usuario actual del sistema.
+
+Esto es útil para saber en qué servidor o entorno estamos trabajando.
