@@ -1,0 +1,9 @@
+Las plataformas comunitarias necesitan servidores estables para garantizar que los usuarios puedan acceder en todo momento.
+La estabilidad evita caídas del sistema y pérdida de información importante.
+La seguridad es clave para proteger los datos de los usuarios.
+Los servidores deben monitorearse para detectar fallos a tiempo.
+El uso de logs ayuda a entender lo que ocurre en el sistema.
+Node.js permite crear servidores rápidos y eficientes.
+El puerto permite la comunicación entre usuario y servidor.
+Una plataforma confiable genera confianza en la comunidad.
+La continuidad del servicio es esencial para la participación digital.
