@@ -1,0 +1,15 @@
+Automatización
+
+Evento:
+Se registra una nueva causa en la plataforma.
+
+Mensaje:
+"Nueva causa creada en la plataforma. Revísala y participa apoyándola."
+
+Información que no debe enviarse:
+- Números de cédula.
+- Direcciones.
+- Teléfonos.
+- Correos electrónicos.
+- Comentarios sensibles.
+- Datos personales de los ciudadanos.
